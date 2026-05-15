@@ -26,3 +26,4 @@ I am a second semester BS IR student with an interest in technology, learning, a
 
 ## Contact
 - GitHub Profile
+https://www.linkedin.com/in/maham-sagheer-6114a5404
