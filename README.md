@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**mahamsagheer25-art/mahamsagheer25-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Maham 👋
 
-Here are some ideas to get you started:
+## About Me
+I am a second semester BS IR student with an interest in technology, learning, and personal development. I am currently exploring GitHub and improving my technical skills step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- BS IR Student
+- Second Semester
+
+## Skills
+- Communication Skills
+- MS Word
+- Canva
+- Presentation Skills
+- Basic Computer Knowledge
+
+## Current Goals
+- Learning GitHub
+- Improving English Communication
+- Building Professional Skills
+- Exploring Technology and Research
+
+## Projects
+- GitHub Profile Assignment
+
+## Contact
+- GitHub Profile
